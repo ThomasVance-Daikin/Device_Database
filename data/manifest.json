@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T16:30:13.682Z",
-  "payloadSha256": "ddb17d437d1649cc293b27304077d4ecb22c371983ce6cae0bf5ba92d7ff6a50",
+  "updatedAt": "2026-07-01T16:35:44.113Z",
+  "payloadSha256": "1d405093656858f4c5c6e7c71b63fd634819ab36ae3fc7fceb96cb958e1fb22a",
   "files": {
     "manifest": "manifest.json",
     "payload": "database.enc.json"
