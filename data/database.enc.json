@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-01T15:22:25.024Z",
+  "kdf": {
+    "name": "pbkdf2",
+    "digest": "sha256",
+    "iterations": 150000,
+    "salt": "4Dg2+p5oEJ5QqHAcEqf7OA=="
+  },
+  "cipher": {
+    "name": "aes-256-gcm",
+    "iv": "CVGbdkqUtvxw5N85",
+    "tag": "sFmNupBpisZVQdKpHFF+ig=="
+  },
+  "payload": "YUuZML/2Yjmuae0985lc4Ykji83Q2X3cF141C89kp0SygD7/tAeHQsgYeBNt32+q1L0+9F2zEc5voAc0cWZU",
+  "payloadSha256": "f07df866f138776874ae19e01eddad67991ba814876de4a8d5a67b6c5ac172bf"
+}
